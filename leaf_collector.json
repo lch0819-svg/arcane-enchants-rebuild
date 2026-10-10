@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.arcane_enchants.leaf_collector"
+  },
+  "supported_items": "#minecraft:enchantable/durability",
+  "primary_items": "#minecraft:enchantable/durability",
+  "weight": 4,
+  "max_level": 3,
+  "min_cost": {
+    "base": 18,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 43,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 5,
+  "slots": [
+    "hand"
+  ]
+}

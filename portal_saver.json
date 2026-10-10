@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.arcane_enchants.portal_saver"
+  },
+  "supported_items": "#minecraft:enchantable/armor",
+  "primary_items": "#minecraft:enchantable/armor",
+  "weight": 6,
+  "max_level": 3,
+  "min_cost": {
+    "base": 12,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 34,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "armor"
+  ]
+}

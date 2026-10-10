@@ -1,0 +1,8 @@
+JAR 靜態檢查報告
+檔案：arcane-enchants-0.2.0-alpha.jar
+大小：36088 bytes
+附魔 JSON 數量：80
+繁體中文翻譯鍵：82
+入口類別：tw.plantuniverse.enchant.ArcaneEnchants
+入口 onInitialize：僅呼叫 Logger.info，沒有註冊或遊戲事件回呼。
+結論：原始 JAR 沒有實作 3×3 挖掘。重建專案新增了事件原型，但尚未成功建置或遊戲內驗證。

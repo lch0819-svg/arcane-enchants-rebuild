@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.arcane_enchants.trident_storm"
+  },
+  "supported_items": "#minecraft:enchantable/weapon",
+  "primary_items": "#minecraft:enchantable/weapon",
+  "weight": 6,
+  "max_level": 3,
+  "min_cost": {
+    "base": 8,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 28,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "hand"
+  ]
+}

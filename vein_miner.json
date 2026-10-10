@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.arcane_enchants.vein_miner"
+  },
+  "supported_items": "#minecraft:enchantable/mining",
+  "primary_items": "#minecraft:enchantable/mining",
+  "weight": 4,
+  "max_level": 3,
+  "min_cost": {
+    "base": 8,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 28,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "hand"
+  ]
+}

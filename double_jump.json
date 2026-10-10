@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.arcane_enchants.double_jump"
+  },
+  "supported_items": "#minecraft:enchantable/foot_armor",
+  "primary_items": "#minecraft:enchantable/foot_armor",
+  "weight": 6,
+  "max_level": 3,
+  "min_cost": {
+    "base": 18,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 43,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "armor"
+  ]
+}

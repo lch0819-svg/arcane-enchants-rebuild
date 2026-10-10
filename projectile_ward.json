@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.arcane_enchants.projectile_ward"
+  },
+  "supported_items": "#minecraft:enchantable/weapon",
+  "primary_items": "#minecraft:enchantable/weapon",
+  "weight": 6,
+  "max_level": 3,
+  "min_cost": {
+    "base": 18,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 43,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "hand"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.arcane_enchants.long_stride"
+  },
+  "supported_items": "#minecraft:enchantable/foot_armor",
+  "primary_items": "#minecraft:enchantable/foot_armor",
+  "weight": 6,
+  "max_level": 3,
+  "min_cost": {
+    "base": 14,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 37,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 5,
+  "slots": [
+    "armor"
+  ]
+}

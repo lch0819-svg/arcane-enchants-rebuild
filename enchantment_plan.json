@@ -1,0 +1,322 @@
+[
+  {
+    "id": "vein_miner",
+    "name_zh_tw": "脈絡挖掘"
+  },
+  {
+    "id": "blast_mining",
+    "name_zh_tw": "爆破挖掘"
+  },
+  {
+    "id": "swift_mining",
+    "name_zh_tw": "迅捷採掘"
+  },
+  {
+    "id": "deep_miner",
+    "name_zh_tw": "深層採掘"
+  },
+  {
+    "id": "ore_sense",
+    "name_zh_tw": "礦脈感知"
+  },
+  {
+    "id": "stonebreaker",
+    "name_zh_tw": "碎岩者"
+  },
+  {
+    "id": "silk_touch_plus",
+    "name_zh_tw": "精緻採集"
+  },
+  {
+    "id": "fortune_plus",
+    "name_zh_tw": "豐收時刻"
+  },
+  {
+    "id": "durability_guard",
+    "name_zh_tw": "耐久守護"
+  },
+  {
+    "id": "auto_smelt",
+    "name_zh_tw": "自動熔煉"
+  },
+  {
+    "id": "lumberjack",
+    "name_zh_tw": "伐木專家"
+  },
+  {
+    "id": "leaf_collector",
+    "name_zh_tw": "集葉者"
+  },
+  {
+    "id": "root_harvest",
+    "name_zh_tw": "根系收成"
+  },
+  {
+    "id": "farmer",
+    "name_zh_tw": "農耕精通"
+  },
+  {
+    "id": "replanting",
+    "name_zh_tw": "自動補種"
+  },
+  {
+    "id": "green_thumb",
+    "name_zh_tw": "綠手指"
+  },
+  {
+    "id": "fisher_luck",
+    "name_zh_tw": "漁獲增幅"
+  },
+  {
+    "id": "treasure_finder",
+    "name_zh_tw": "尋寶直覺"
+  },
+  {
+    "id": "swift_fishing",
+    "name_zh_tw": "迅捷垂釣"
+  },
+  {
+    "id": "deep_sea",
+    "name_zh_tw": "深海恩惠"
+  },
+  {
+    "id": "sharpness_plus",
+    "name_zh_tw": "鋒銳強化"
+  },
+  {
+    "id": "heavy_strike",
+    "name_zh_tw": "重擊"
+  },
+  {
+    "id": "swift_strike",
+    "name_zh_tw": "迅擊"
+  },
+  {
+    "id": "critical_edge",
+    "name_zh_tw": "致命鋒芒"
+  },
+  {
+    "id": "undead_bane_plus",
+    "name_zh_tw": "亡靈剋星"
+  },
+  {
+    "id": "arthropod_bane_plus",
+    "name_zh_tw": "節肢剋星"
+  },
+  {
+    "id": "beast_hunter",
+    "name_zh_tw": "獵獸者"
+  },
+  {
+    "id": "flame_edge",
+    "name_zh_tw": "烈焰之刃"
+  },
+  {
+    "id": "frost_edge",
+    "name_zh_tw": "寒霜之刃"
+  },
+  {
+    "id": "thunder_edge",
+    "name_zh_tw": "雷鳴之刃"
+  },
+  {
+    "id": "lifesteal",
+    "name_zh_tw": "生命汲取"
+  },
+  {
+    "id": "soul_harvest",
+    "name_zh_tw": "靈魂收割"
+  },
+  {
+    "id": "knockback_plus",
+    "name_zh_tw": "強力擊退"
+  },
+  {
+    "id": "execute",
+    "name_zh_tw": "終結一擊"
+  },
+  {
+    "id": "combo_master",
+    "name_zh_tw": "連擊大師"
+  },
+  {
+    "id": "sweeping_plus",
+    "name_zh_tw": "橫掃強化"
+  },
+  {
+    "id": "reach",
+    "name_zh_tw": "延伸打擊"
+  },
+  {
+    "id": "guardian_slayer",
+    "name_zh_tw": "守衛剋星"
+  },
+  {
+    "id": "dragon_slayer",
+    "name_zh_tw": "屠龍者"
+  },
+  {
+    "id": "beacon_strike",
+    "name_zh_tw": "信標打擊"
+  },
+  {
+    "id": "bulwark",
+    "name_zh_tw": "壁壘"
+  },
+  {
+    "id": "projectile_ward",
+    "name_zh_tw": "彈射物守護"
+  },
+  {
+    "id": "blast_ward",
+    "name_zh_tw": "爆炸守護"
+  },
+  {
+    "id": "fire_ward",
+    "name_zh_tw": "火焰守護"
+  },
+  {
+    "id": "frost_ward",
+    "name_zh_tw": "寒霜守護"
+  },
+  {
+    "id": "thorns_plus",
+    "name_zh_tw": "荊棘強化"
+  },
+  {
+    "id": "last_stand",
+    "name_zh_tw": "最後防線"
+  },
+  {
+    "id": "regeneration",
+    "name_zh_tw": "生命復甦"
+  },
+  {
+    "id": "absorption",
+    "name_zh_tw": "吸收屏障"
+  },
+  {
+    "id": "resistance_pulse",
+    "name_zh_tw": "抗性脈衝"
+  },
+  {
+    "id": "swift_sneak_plus",
+    "name_zh_tw": "迅捷潛行"
+  },
+  {
+    "id": "long_stride",
+    "name_zh_tw": "大步流星"
+  },
+  {
+    "id": "wall_climber",
+    "name_zh_tw": "攀壁"
+  },
+  {
+    "id": "double_jump",
+    "name_zh_tw": "二段跳"
+  },
+  {
+    "id": "safe_landing",
+    "name_zh_tw": "安穩著陸"
+  },
+  {
+    "id": "water_dancer",
+    "name_zh_tw": "踏水者"
+  },
+  {
+    "id": "lava_walker",
+    "name_zh_tw": "熔岩行者"
+  },
+  {
+    "id": "soul_sprinter",
+    "name_zh_tw": "靈魂疾行"
+  },
+  {
+    "id": "night_vision",
+    "name_zh_tw": "夜視"
+  },
+  {
+    "id": "wind_runner",
+    "name_zh_tw": "乘風者"
+  },
+  {
+    "id": "experience_boost",
+    "name_zh_tw": "經驗增幅"
+  },
+  {
+    "id": "mending_plus",
+    "name_zh_tw": "修補強化"
+  },
+  {
+    "id": "magnetism",
+    "name_zh_tw": "物品磁吸"
+  },
+  {
+    "id": "scavenger",
+    "name_zh_tw": "拾荒專家"
+  },
+  {
+    "id": "mob_lure",
+    "name_zh_tw": "生物引誘"
+  },
+  {
+    "id": "mob_repellent",
+    "name_zh_tw": "生物驅離"
+  },
+  {
+    "id": "stealth",
+    "name_zh_tw": "隱匿"
+  },
+  {
+    "id": "luck_of_worlds",
+    "name_zh_tw": "世界眷顧"
+  },
+  {
+    "id": "portal_saver",
+    "name_zh_tw": "傳送門守護"
+  },
+  {
+    "id": "void_anchor",
+    "name_zh_tw": "虛空錨定"
+  },
+  {
+    "id": "shield_bash",
+    "name_zh_tw": "盾擊"
+  },
+  {
+    "id": "quick_guard",
+    "name_zh_tw": "迅速格擋"
+  },
+  {
+    "id": "counterattack",
+    "name_zh_tw": "反擊"
+  },
+  {
+    "id": "arrow_burst",
+    "name_zh_tw": "箭矢爆發"
+  },
+  {
+    "id": "piercing_plus",
+    "name_zh_tw": "穿透強化"
+  },
+  {
+    "id": "homing_shot",
+    "name_zh_tw": "追蹤射擊"
+  },
+  {
+    "id": "rapid_fire",
+    "name_zh_tw": "連發"
+  },
+  {
+    "id": "steady_aim",
+    "name_zh_tw": "穩定瞄準"
+  },
+  {
+    "id": "trident_storm",
+    "name_zh_tw": "三叉戟風暴"
+  },
+  {
+    "id": "boomerang",
+    "name_zh_tw": "回旋投擲"
+  }
+]

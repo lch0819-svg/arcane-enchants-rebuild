@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "arcane_enchants",
+  "version": "${version}",
+  "name": "奧術附魔｜繁體中文",
+  "description": "Minecraft Java 26.3 Fabric：80 種資料驅動附魔與繁體中文資源。3×3 挖掘效果仍需接上並測試。",
+  "authors": [
+    "Rebuilt from supplied alpha JAR"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "tw.plantuniverse.enchant.ArcaneEnchants"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
